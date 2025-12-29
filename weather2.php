@@ -154,7 +154,7 @@ $majorCities = ["Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata"];
 <body>
     <nav class="navbar">
         <div class="nav-container">
-            <div class="weather">Weather App</div>
+            <div class="weather">WeatherZ.com</div>
             <div class="search-box">
                 <form id="search-form" method="get" action="">
                     <input type="text" id="search-input" name="search" placeholder="Enter city name" value="">
@@ -199,5 +199,6 @@ $majorCities = ["Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata"];
         </div>
     </div>
 </body>
+
 
 </html>
